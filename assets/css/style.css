@@ -359,6 +359,20 @@ h6 {
   }
 }
 
+
+#boton-bonito {
+  background: #0563bb;
+  border: 0;
+  padding: 10px 35px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  }
+
+#boton-bonito:hover {
+  background: #0678e3;
+}
+
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
